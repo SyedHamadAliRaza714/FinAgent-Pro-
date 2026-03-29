@@ -1,0 +1,10 @@
+Tech-stack required to install:
+streamlit
+crewai[tools]
+langchain-huggingface
+langchain-community
+yfinance
+beautifulsoup4
+requests
+pydantic>=2.0
+crewai[google-genai]
