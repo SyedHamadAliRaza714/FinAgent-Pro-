@@ -113,9 +113,9 @@ Export the final institutional report as a downloadable PDF.
 👨‍💻 Author
 Hamad Ali Raza
 
-GitHub: @HamadAliRaza
+GitHub: [@HamadAliRaza](https://github.com/SyedHamadAliRaza714)
 
-Project Link: FinAgent Pro Repository
+Project Link: [FinAgent Pro Repository](
 
 📄 License
 This project is open source and available under the MIT License.
