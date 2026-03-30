@@ -1,4 +1,9 @@
 # 💎 FinAgent Pro: Multi-Agent AI Financial Analyst
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?logo=streamlit&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-orange)
+![Groq](https://img.shields.io/badge/Groq-Llama_3.1-f55036)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An institutional-grade, AI-powered equity intelligence platform that leverages a multi-agent AI system to fetch, analyze, and report on real-time stock market data in seconds.
 
@@ -118,7 +123,7 @@ Hamad Ali Raza
 
 GitHub: [@HamadAliRaza](https://github.com/SyedHamadAliRaza714)
 
-Project Link: [[FinAgent Pro Repository](https://github.com/SyedHamadAliRaza714/FinAgent-Pro-)(
+Project Link: [FinAgent Pro Repository](https://github.com/SyedHamadAliRaza714/FinAgent-Pro-)
 
 ## 📄 License
 This project is open source and available under the MIT License.
